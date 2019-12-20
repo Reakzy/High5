@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_home"
+            android:icon="@drawable/web_page_home"
+            android:title="@string/home_page"/>
+
+    <item
+            android:id="@+id/navigation_add_event"
+            android:icon="@drawable/add"
+            android:title="@string/event_add"/>
+
+    <item
+            android:id="@+id/navigation_profile"
+            android:icon="@drawable/profile"
+            android:title="@string/profile_page"/>
+</menu>

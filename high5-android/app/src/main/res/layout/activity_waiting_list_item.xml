@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <ImageView
+            android:id="@+id/imgView"
+            android:layout_width="70px"
+            android:layout_height="50dp"
+            android:layout_marginTop="30dp"/>
+
+    <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Username"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/text"/>
+    <Button
+            android:id="@+id/refuseButton"
+            android:layout_width="111dp"
+            android:layout_height="31dp"
+            android:textColor="@color/text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/waiting_list_refuse"
+            android:layout_below="@+id/acceptButton"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="40dp"
+            android:layout_marginTop="25dp"
+            android:background="@color/google_background"/>
+    <Button
+            android:id="@+id/acceptButton"
+            android:layout_width="111dp"
+            android:layout_height="31dp"
+            android:textColor="@color/text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/waiting_list_accept"
+            android:layout_marginBottom="15dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="40dp"
+            android:background="@color/primary" android:layout_centerVertical="true"/>
+</RelativeLayout>

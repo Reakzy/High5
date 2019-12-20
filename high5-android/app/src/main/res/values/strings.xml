@@ -1,0 +1,51 @@
+<resources>
+    <string name="admob_app_id">ca-app-pub-1737513588576197~4958054070</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1737513588576197/2960013481</string>
+    <string name="banner_ad_unit_id_test" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_name" translatable="false">High5</string>
+    <string name="home_page">Accueil</string>
+    <string name="Username">Nom</string>
+    <string name="profile_page">Profil</string>
+    <string name="user_profile_confirm_delete_title">Supprimer mon compte</string>
+    <string name="user_profile_confirm_delete">Etes-vous sûr de supprimer votre compte?</string>
+    <string name="event_add">Créer</string>
+    <string name="event_edit">Modifier</string>
+    <string name="login_google_sign_in">Compte Google</string>
+    <string name="login_sign_in_with_google">S\'inscrire avec Google</string>
+    <string name="login_sign_in_with_facebook">S\'inscrire avec Facebook</string>
+    <string name="title_activity_events_list">Liste d\'événements</string>
+    <string name="title_activity_event_create">Votre événement</string>
+    <string name="event_create_title">Titre</string>
+    <string name="event_create_date">Date</string>
+    <string name="event_create_location">Adresse</string>
+    <string name="event_create_description">Description</string>
+    <string name="profile_mobile">Mobile</string>
+    <string name="profile_email">Email</string>
+    <string name="profile_age">Age</string>
+    <string name="event_chat_title">Chat de l\'événement</string>
+    <string name="event_join">Rejoindre</string>
+    <string name="event_chat">Chat</string>
+    <string name="event_details">Details</string>
+    <string name="event_details_joined">Nombre d\'inscrits: </string>
+    <string name="event_details_no_title">Pas de titre</string>
+    <string name="event_chat_send">Envoyer</string>
+    <string name="waiting_list_accept">Accepter</string>
+    <string name="waiting_list_refuse">Refuser</string>
+    <string name="event_waiting">En attente</string>
+    <string name="event_quit">Quitter</string>
+    <string name="event_list_own_groups">Mes groupes</string>
+    <string name="disconnect">Se Déconnecter</string>
+    <string name="event_delete">Supprimer</string>
+    <string name="event_waiting_list">Liste d\'attente</string>
+    <string name="event_details_confirm_delete">Etes-vous sûr de supprimer cet événement?</string>
+    <string name="event_details_confirm_quit">Etes-vous sûr de quitter cet événement?</string>
+    <string name="profile_edit_validate">Valider mes Informations</string>
+    <string name="event_details_desc">Cet événement n\'a pas de description.</string>
+    <string name="validation_yes">Oui</string>
+    <string name="validation_no">Non</string>
+    <string name="activity_profile_button_modifier">Modifier</string>
+    <string name="activity_profile_participated">A participé à</string>
+    <string name="activity_profile_event">événement(s)</string>
+    <string name="activity_profile_created">A créé</string>
+    <string name="date_de_naissance">Date de naissance</string>
+</resources>

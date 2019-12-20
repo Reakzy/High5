@@ -1,0 +1,103 @@
+{
+  "project_info": {
+    "project_number": "210036091979",
+    "firebase_url": "https://high5-152f1.firebaseio.com",
+    "project_id": "high5-152f1",
+    "storage_bucket": "high5-152f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210036091979:android:a17d88732baf226b",
+        "android_client_info": {
+          "package_name": "high5.team.high5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210036091979-4j1gegak2l25ab6dju5fcnjfhjlntfmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "high5.team.high5",
+            "certificate_hash": "f8036e92fec59cc5fc30cf75799bcd23e7e37c5e"
+          }
+        },
+        {
+          "client_id": "210036091979-l5gb58m9du1hvec95rfus24thv511eu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "high5.team.high5",
+            "certificate_hash": "74d634592b50dbc2cecfa93eb41b54909386a28c"
+          }
+        },
+        {
+          "client_id": "210036091979-8oc4tmdte3svruoik7vd8d8sr0edd39h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "high5.team.high5",
+            "certificate_hash": "2171f96853f733ac30a619608aee5cea41e16a00"
+          }
+        },
+        {
+          "client_id": "210036091979-1upcut9iftqtj7u4ird1jln714fs4bnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "high5.team.high5",
+            "certificate_hash": "68222dc702706c1188bd1ede755626ecf54ed71d"
+          }
+        },
+        {
+          "client_id": "210036091979-umskleebjl1guc15rt2gd4f2c2u8ut1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "high5.team.high5",
+            "certificate_hash": "eab22ab0f4cd13ac7245ed9e4954a6c418a9c8eb"
+          }
+        },
+        {
+          "client_id": "210036091979-kk80hod1b1fd074jjr9cpo6gic1nbnpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "high5.team.high5",
+            "certificate_hash": "51a58889ed0bd4ec8ac21e8700e9960ba20b610d"
+          }
+        },
+        {
+          "client_id": "210036091979-q6j5tjc0ueukuhat14f1n720q7hdeq8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0kI-JCqj7bghT44W-ER3tYbPb7IOqx6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210036091979-q6j5tjc0ueukuhat14f1n720q7hdeq8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210036091979-k22v1c6pdtlfs52i59cest6goiiqmncd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "high5.team.high5"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-1737513588576197~4958054070"
+    }
+  ],
+  "configuration_version": "1"
+}
