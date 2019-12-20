@@ -1,0 +1,19 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '12.0'
+
+target 'high5' do
+    # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+    use_frameworks!
+    
+    pod 'Firebase'
+    pod 'Firebase/Core'
+    pod 'Firebase/Auth'
+    pod 'GoogleSignIn'
+    pod 'Firebase/Firestore'
+    
+    target 'high5Tests' do
+        inherit! :search_paths
+        
+    end
+    
+end
